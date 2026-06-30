@@ -4,6 +4,10 @@ A lightweight, automated Python utility to export, download, and optimize your f
 
 Discord rarely stores favorites as native `.gif` files; instead, they are usually modern, compressed video streams (like `.mp4` or `.webm`) served by platforms like Tenor. This tool extracts your exact favorites list from Discord, downloads the high-quality source video files, and uses smart `FFmpeg` processing to convert them back into highly optimized `.gif` files that strictly obey Discord's **10MB upload limit**.
 
+Here's the reason of its existence:
+
+![Alternative text here](https://media.discordapp.net/attachments/958361590959341650/1521623847760040036/image.png?ex=6a458223&is=6a4430a3&hm=3dd0ce37e95d607f0e42d7e4a2890e3aa6cabb0ef1ecbd62fe54f5ab74722473&=&format=webp&quality=lossless&width=587&height=777)
+
 ## ✨ Features
 
 * **One-Click Export:** A simple browser console script pulls your entire Discord favorite GIFs list instantly.
