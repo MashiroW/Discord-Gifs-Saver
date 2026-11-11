@@ -125,3 +125,11 @@ You can tweak the constants directly inside `gifs_dl.py` to match your needs:
 
 * `MAX_WORKERS = 5` — Adjusts how many downloads happen simultaneously. Reduce this if you have a weak internet connection.
 * `MAX_SIZE_MB = 10.0` — The ceiling limit for standard Discord file uploads. You can boost this to `50.0` or `100.0` if you have Discord Nitro perks.
+
+## ⚖️ License
+
+Copyright (C) 2026 MashiroW
+
+Discord-Gifs-Saver is free software, released under the [GNU General Public License v3.0](LICENSE). You may use, modify and redistribute it, in whole or in part (snippets included), as long as anything you distribute that is based on it is also released under the GPL-3.0 with its source code, and keeps this copyright notice. Third-party assets and libraries included in or used by this project remain under their own licenses.
+
+**Commercial or closed-source use:** if you want to use this project, or any part of it, in a proprietary or closed-source product without the GPL obligations, you need a separate commercial license. Contact me on Discord to get one: https://discord.gg/TcsHQjU9xh
